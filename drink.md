@@ -1,1 +1,4 @@
-Orange,Fraise,Banane,Mangue
+cafe
+tea
+lait
+
