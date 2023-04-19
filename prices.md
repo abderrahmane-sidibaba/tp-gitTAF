@@ -1,0 +1,13 @@
+poulet = 22dhs
+viande = 20dhs
+riz = 14dhs
+fritte = 7dhs
+brioche = 12dhs
+pain = 2dhs
+croissant = 4dhs
+cafe = 9dhs
+tea = 9dhs
+lait = 5dhs
+Coke = 8dhs
+Fanta = 8dhs
+Pepsi = 8dhs
