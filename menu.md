@@ -1,4 +1,0 @@
-poulet
-viande
-riz
-fritte
