@@ -11,3 +11,4 @@ lait = 5dhs
 Coke = 8dhs
 Fanta = 8dhs
 Pepsi = 8dhs
+7up = 8dhs
