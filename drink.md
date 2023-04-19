@@ -1,3 +1,0 @@
-cafe
-tea
-lait
